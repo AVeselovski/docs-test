@@ -1,0 +1,10 @@
+site_name: Testing
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+  # - header.autohide
+  palette:
+    primary: white
